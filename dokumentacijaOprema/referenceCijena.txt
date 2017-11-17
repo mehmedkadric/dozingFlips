@@ -1,0 +1,28 @@
+CIJENE
+
+Scaime: 
+http://totalcomp.com/process-cpj-scaime-process-c-395_399.html
+
+PLC: 
+http://www.digipart.com/part/TM241CE24T
+
+HMIS5T: 
+http://www.findchips.com/search/hmis5t
+
+Analog I/O modul: 
+http://www.newark.com/square-d-by-schneider-electric/tm3tm3/analogue-i-o-module-tm3-2-i-p/dp/84X5917
+
+DIN šina:
+http://www.l-com.com/patch-panel-server-rack-35mm-din-rail
+
+Relej:
+http://uk.farnell.com/schneider-electric-telemecanique/ca3kn40bd/relay-control-4n-o-24v/dp/288561
+
+Ispravljaè:
+http://www.newark.com/schneider-electric/abl8rem24050/ac-dc-converter-din-rail-1-o-p/dp/71P7786
+
+Osiguraè:
+https://octopart.com/a9n18344-schneider+electric-67906284
+
+Redne stezaljke:
+http://www.newark.com/schneider-electric/nsytrv22/terminal-block-din-rail-2-position/dp/06X3306
